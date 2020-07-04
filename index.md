@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## #Kzulfazriawan@GitHub >_
 
-You can use the [editor on GitHub](https://github.com/kzulfazriawan/kzulfazriawan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi!, This is my personal pages on [Github](https://github.com/kzulfazriawan). Sometimes I do the other stuff other than Programming like Music Production and other stuff.
+For me technology is just a tools, we don't worship them and they're not rule us. It's something we can bend into our will but to do that it's required knowledge, and we
+can get the knowledge from everywhere, everyone, and everytime. It depends to us, are we brave enough to acquire it ? but there's a cost!.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kzulfazriawan/kzulfazriawan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Anyway thanks for stopping by, Catch me on social media!
+[Stackoverflow](https://stackoverflow.com/users/6041078/kzulfazriawan)
+[Twitter](https://twitter.com/kzulfazriawan)
+[LinkedIn](https://www.linkedin.com/in/kzulfazriawan/)
